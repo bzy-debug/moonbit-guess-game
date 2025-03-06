@@ -1,0 +1,9 @@
+target/
+.mooncakes/
+.DS_Store
+.vscode
+.gitignore
+src
+moon.mod.json
+
+!target/js/release/build/extension/extension.js

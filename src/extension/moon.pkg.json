@@ -1,0 +1,12 @@
+{
+  "link": {
+    "js": {
+      "exports": ["activate", "deactivate"],
+      "format": "cjs"
+    }
+  },
+  "import": [
+    "rami3l/js-ffi/js",
+    "bzy-debug/vscode-ffi/vscode"
+  ]
+}
