@@ -12,12 +12,12 @@
   "activationEvents": [
     "onStartupFinished"
   ],
-  "main": "./target/js/release/build/extension/extension.js",
+  "main": "./extension/target/js/release/build/extension/extension.js",
   "contributes": {
     "commands": [
       {
         "command": "moonbit-guess-number.start",
-        "title": "Hello World"
+        "title": "Start guess number game"
       }
     ]
   },

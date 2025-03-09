@@ -1,0 +1,7 @@
+[submodule "vscode-ffi"]
+	path = vscode-ffi
+	url = https://github.com/moonbit-community/vscode-ffi.git
+[submodule "js-ffi"]
+	path = js-ffi
+	url = https://github.com/moonbit-community/js-ffi.git
+	branch = zhiyuan/wip

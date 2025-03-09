@@ -5,8 +5,5 @@
       "format": "cjs"
     }
   },
-  "import": [
-    "rami3l/js-ffi/js",
-    "bzy-debug/vscode-ffi/vscode"
-  ]
+  "import": ["rami3l/js-ffi/js", "bzy-debug/vscode-ffi/vscode"]
 }
